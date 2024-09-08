@@ -4,7 +4,7 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-nodejs
+    repo: eighty8io/notifications-service
   name: sample-nodejs-do
 - environment_slug: node-js
   github:
